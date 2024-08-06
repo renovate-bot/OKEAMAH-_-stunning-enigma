@@ -171,7 +171,7 @@
     "css-loader": "6.9.1",
     "electron": "28.3.1",
     "electron-packager": "17.1.2",
-    "eslint": "8.56.0",
+    "eslint": "9.8.0",
     "eslint-plugin-promise": "6.1.1",
     "eslint-plugin-react": "7.34.1",
     "eslint-plugin-react-hooks": "4.6.0",
