@@ -11,7 +11,7 @@ require (
 	github.com/blang/semver v3.5.1+incompatible
 	// NOTE: if bleve is updated, consider removing the `replace` directive
 	// for bbolt at the bottom of this go.mod
-	github.com/blevesearch/bleve v0.8.2-0.20191030071327-189ee421f71e
+	github.com/blevesearch/bleve v0.9.0
 	github.com/btcsuite/btcutil v0.0.0-20180706230648-ab6388e0c60a
 	github.com/buger/jsonparser v1.1.1
 	github.com/coreos/go-systemd v0.0.0-20190620071333-e64a0ec8b42a
@@ -129,6 +129,7 @@ require (
 	github.com/blevesearch/blevex v0.0.0-20190916190636-152f0fe5c040 // indirect
 	github.com/blevesearch/go-porterstemmer v1.0.3 // indirect
 	github.com/blevesearch/segment v0.8.0 // indirect
+	github.com/blevesearch/snowballstem v0.9.0 // indirect
 	github.com/blizzy78/varnamelen v0.8.0 // indirect
 	github.com/bombsimon/wsl/v3 v3.4.0 // indirect
 	github.com/breml/bidichk v0.2.7 // indirect
