@@ -136,7 +136,7 @@
     "url-parse": "1.5.10",
     "use-debounce": "10.0.0",
     "util": "0.12.5",
-    "zustand": "4.5.0"
+    "zustand": "4.5.4"
   },
   "devDependencies": {
     "@babel/core": "7.23.3",
