@@ -532,6 +532,8 @@ github.com/keybase/go-triplesec-insecure v0.0.0-20231213205953-ffb6212a205e h1:P
 github.com/keybase/go-triplesec-insecure v0.0.0-20231213205953-ffb6212a205e/go.mod h1:FZedR+t+xUayFbjFxL+yqtOsbJZR2kkd69T8Io9mAPY=
 github.com/keybase/go-winio v0.4.12-0.20180913221037-b1d96ab97b58 h1:W3c3cQc7Fe2LWwa9gz1qyOBfJwuMNcnVIoHP9joEUzI=
 github.com/keybase/go-winio v0.4.12-0.20180913221037-b1d96ab97b58/go.mod h1:Rcswqyeiwun4CF+RpzSNllKs3nO8Es5HZIhl+8YCm94=
+github.com/keybase/go-winio v0.4.12-0.20181031203417-0903bf878a72 h1:okCFPNP1a2XssgN/P6QzRACIGgtlTlAqTTMOTkSn88w=
+github.com/keybase/go-winio v0.4.12-0.20181031203417-0903bf878a72/go.mod h1:Rcswqyeiwun4CF+RpzSNllKs3nO8Es5HZIhl+8YCm94=
 github.com/keybase/golang-ico v0.0.0-20181117022008-819cbeb217c9 h1:O4kEXd3yzbpHCRqwjbsBNKlanp52zXjKP6nFh9VSGy0=
 github.com/keybase/golang-ico v0.0.0-20181117022008-819cbeb217c9/go.mod h1:t9Db0X8VAAJTL82huV2G56KTYUeVET8THTLSjyWpE4o=
 github.com/keybase/goleveldb v1.0.1-0.20221007195407-9881c0c26e65 h1:+y5yl2o/36at0ANWlFv7orF19GY1TghEsWRYD3JIT0g=

@@ -43,7 +43,7 @@ require (
 	github.com/keybase/go-ps v0.0.0-20190827175125-91aafc93ba19
 	github.com/keybase/go-triplesec v0.0.0-20231213205702-981541df982e
 	github.com/keybase/go-triplesec-insecure v0.0.0-20231213205953-ffb6212a205e
-	github.com/keybase/go-winio v0.4.12-0.20180913221037-b1d96ab97b58
+	github.com/keybase/go-winio v0.4.12-0.20181031203417-0903bf878a72
 	github.com/keybase/golang-ico v0.0.0-20181117022008-819cbeb217c9
 	github.com/keybase/gomounts v0.0.0-20180302000443-349507f4d353
 	github.com/keybase/keybase-test-vectors v1.0.12-0.20200309162119-ea1e58fecd5d
