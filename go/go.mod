@@ -21,7 +21,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/eapache/channels v1.1.0
 	github.com/gammazero/workerpool v0.0.0-20181230203049-86a96b5d5d92
-	github.com/go-errors/errors v1.4.2
+	github.com/go-errors/errors v1.5.1
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
 	github.com/golang/mock v1.6.0
