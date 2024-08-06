@@ -5,7 +5,7 @@ go 1.19
 require (
 	bazil.org/fuse v0.0.0-20200424023519-3c101025617f
 	camlistore.org v0.0.0-20161205184337-c55c8602d3ce
-	github.com/PuerkitoBio/goquery v1.5.1
+	github.com/PuerkitoBio/goquery v1.9.2
 	github.com/akavel/rsrc v0.2.1-0.20151103204339-ba14da1f8271
 	github.com/araddon/dateparse v0.0.0-20180729174819-cfd92a431d0e
 	github.com/blang/semver v3.5.1+incompatible
@@ -70,12 +70,12 @@ require (
 	github.com/urfave/cli v1.22.1
 	github.com/vividcortex/ewma v1.1.2-0.20170804035156-43880d236f69
 	go.uber.org/zap v1.24.0
-	golang.org/x/crypto v0.17.0
+	golang.org/x/crypto v0.22.0
 	golang.org/x/image v0.14.0
 	golang.org/x/mobile v0.0.0-20231127183840-76ac6878050a
-	golang.org/x/net v0.19.0
+	golang.org/x/net v0.24.0
 	golang.org/x/sync v0.5.0
-	golang.org/x/sys v0.15.0
+	golang.org/x/sys v0.19.0
 	golang.org/x/text v0.14.0
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1
 	gopkg.in/src-d/go-billy.v4 v4.3.2
@@ -115,7 +115,7 @@ require (
 	github.com/alexkohler/nakedret/v2 v2.0.2 // indirect
 	github.com/alexkohler/prealloc v1.0.0 // indirect
 	github.com/alingse/asasalint v0.0.11 // indirect
-	github.com/andybalholm/cascadia v1.3.1 // indirect
+	github.com/andybalholm/cascadia v1.3.2 // indirect
 	github.com/anmitsu/go-shlex v0.0.0-20161002113705-648efa622239 // indirect
 	github.com/antchfx/htmlquery v1.2.3 // indirect
 	github.com/antchfx/xmlquery v1.3.4 // indirect
