@@ -54,7 +54,7 @@ require (
 	github.com/kyokomi/emoji v2.2.2+incompatible
 	github.com/mattn/go-isatty v0.0.17
 	github.com/miekg/dns v1.1.57
-	github.com/nfnt/resize v0.0.0-20160724205520-891127d8d1b5
+	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
 	github.com/pkg/errors v0.9.1
 	github.com/pkg/xattr v0.2.2
 	github.com/qrtz/nativemessaging v0.0.0-20161221035708-f4769a80e040
