@@ -5557,10 +5557,10 @@ expo-contacts@12.4.0:
   dependencies:
     uuid "^3.4.0"
 
-expo-file-system@15.6.0:
-  version "15.6.0"
-  resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-15.6.0.tgz#03e483ef8f8f50039862580a8e88ac43e17dbc19"
-  integrity sha512-a2hvSWPQLgzw6/u7QuVjVs44Zqgkq3EQJ94tUpw9GbAxj2RsdS3tPnzakBb3Mc6VoQ2Aop6FIgSKeYCeYJAzsg==
+expo-file-system@15.9.0:
+  version "15.9.0"
+  resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-15.9.0.tgz#b048b9168875634efcce0aa002ee0eec31ed42a8"
+  integrity sha512-ikzqBGpbSzp/57+aruXzRR2s0HEVYxdd1o3RxfswJRujjT/6X128xmUTTFDaQUr+zydyvxvY7Mo0szWpXhPyLA==
   dependencies:
     uuid "^3.4.0"
 
