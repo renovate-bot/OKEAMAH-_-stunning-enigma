@@ -5651,10 +5651,10 @@ expo-modules-core@1.5.12:
     compare-versions "^3.4.0"
     invariant "^2.2.4"
 
-expo-sms@11.5.0:
-  version "11.5.0"
-  resolved "https://registry.yarnpkg.com/expo-sms/-/expo-sms-11.5.0.tgz#22c9bde60fa5bf7a352cc6b0961b0c70cc8d54c6"
-  integrity sha512-BMpIvp4DmUv19RtDghw9bbl/0LhwiZPh2UHOxQ7FCO3skYuMqOn42/TMKEpJG3yADaMZsV19wjinQ0S+BPDigg==
+expo-sms@11.7.1:
+  version "11.7.1"
+  resolved "https://registry.yarnpkg.com/expo-sms/-/expo-sms-11.7.1.tgz#825907eaab6056c74fc63b442820e0ec1c8fd24c"
+  integrity sha512-dp8W0j7hKz6LIfzw1Zk5eB7MR8io8qcd2N8QnOK+KKLTr5T+XoSGRp30zhn4ode6chZU5gR0FGwXaPmGmt045g==
 
 expo-task-manager@11.5.0:
   version "11.5.0"
