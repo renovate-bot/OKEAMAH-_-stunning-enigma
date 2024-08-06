@@ -9689,15 +9689,14 @@ react-native-flipper-performance-plugin@0.4.0:
   resolved "https://registry.yarnpkg.com/react-native-flipper-performance-plugin/-/react-native-flipper-performance-plugin-0.4.0.tgz#961ff2f9ccc942d2a4cabd4f6d401034c5402007"
   integrity sha512-D9Z5VrktJjUenYB4X9qfKcqg9YSyQWOD7fKoxkzXoKxbyalGoWib79iD3OBHOBZEsk5RbQ006zYL7VQwA3D4Wg==
 
-react-native-gesture-handler@2.14.0:
-  version "2.14.0"
-  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.14.0.tgz#d6aec0d8b2e55c67557fd6107e828c0a1a248be8"
-  integrity sha512-cOmdaqbpzjWrOLUpX3hdSjsMby5wq3PIEdMq7okJeg9DmCzanysHSrktw1cXWNc/B5MAgxAn9J7Km0/4UIqKAQ==
+react-native-gesture-handler@2.18.1:
+  version "2.18.1"
+  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.18.1.tgz#ec9206f34cd2f34a66c0430b2c416d31ee6dff17"
+  integrity sha512-WF2fxQ5kTaxHghlkBM4YxO86SyGWVwrSNgJ1E8z/ZtL2xD5B3bg5agvuVFfOzvceC114yq71s6E9vKPz94ZxRw==
   dependencies:
     "@egjs/hammerjs" "^2.0.17"
     hoist-non-react-statics "^3.3.0"
     invariant "^2.2.4"
-    lodash "^4.17.21"
     prop-types "^15.7.2"
 
 react-native-hw-keyboard-event@0.0.4:
