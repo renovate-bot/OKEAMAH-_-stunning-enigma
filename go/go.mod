@@ -20,7 +20,7 @@ require (
 	github.com/docopt/docopt-go v0.0.0-20160216232012-784ddc588536
 	github.com/dustin/go-humanize v1.0.0
 	github.com/eapache/channels v1.1.0
-	github.com/gammazero/workerpool v0.0.0-20181230203049-86a96b5d5d92
+	github.com/gammazero/workerpool v1.1.3
 	github.com/go-errors/errors v1.4.2
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
@@ -158,7 +158,7 @@ require (
 	github.com/firefart/nonamedreturns v1.0.4 // indirect
 	github.com/fsnotify/fsnotify v1.5.4 // indirect
 	github.com/fzipp/gocyclo v0.6.0 // indirect
-	github.com/gammazero/deque v0.0.0-20180920172122-f6adf94963e4 // indirect
+	github.com/gammazero/deque v0.2.0 // indirect
 	github.com/ghostiam/protogetter v0.2.3 // indirect
 	github.com/gliderlabs/ssh v0.3.0 // indirect
 	github.com/glycerine/go-unsnap-stream v0.0.0-20181221182339-f9677308dec2 // indirect
