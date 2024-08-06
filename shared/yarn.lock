@@ -5626,10 +5626,10 @@ expo-mail-composer@12.5.0:
   dependencies:
     query-string "^6.2.0"
 
-expo-media-library@15.6.0:
-  version "15.6.0"
-  resolved "https://registry.yarnpkg.com/expo-media-library/-/expo-media-library-15.6.0.tgz#32d0b3d1baf2d16ab98c8f3b929a50152df055d6"
-  integrity sha512-SsV+sdPcV9nSmvlCqTfF9rt/3KoWutKvAxk1EFke2BEklcdn9FhupdOFvodW6m3wYkBNdhJaqTRniZHvjYNs8A==
+expo-media-library@16.0.4:
+  version "16.0.4"
+  resolved "https://registry.yarnpkg.com/expo-media-library/-/expo-media-library-16.0.4.tgz#d6b264a201861a2eb055b8c181368d2e7f525ca4"
+  integrity sha512-nX9iN8+XAoERDVGPpDdUbhFwvfYdBpkgTAxwDOYL7heASYCOdxfqQtXy/jv1+QZpj0epaR6Owq/LUn1lVP3ykg==
 
 expo-modules-autolinking@1.5.1:
   version "1.5.1"
