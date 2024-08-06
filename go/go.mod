@@ -53,7 +53,7 @@ require (
 	github.com/kr/text v0.2.0
 	github.com/kyokomi/emoji v2.2.2+incompatible
 	github.com/mattn/go-isatty v0.0.17
-	github.com/miekg/dns v1.1.57
+	github.com/miekg/dns v1.1.61
 	github.com/nfnt/resize v0.0.0-20160724205520-891127d8d1b5
 	github.com/pkg/errors v0.9.1
 	github.com/pkg/xattr v0.2.2
@@ -70,13 +70,13 @@ require (
 	github.com/urfave/cli v1.22.1
 	github.com/vividcortex/ewma v1.1.2-0.20170804035156-43880d236f69
 	go.uber.org/zap v1.24.0
-	golang.org/x/crypto v0.17.0
+	golang.org/x/crypto v0.24.0
 	golang.org/x/image v0.14.0
 	golang.org/x/mobile v0.0.0-20231127183840-76ac6878050a
-	golang.org/x/net v0.19.0
-	golang.org/x/sync v0.5.0
-	golang.org/x/sys v0.15.0
-	golang.org/x/text v0.14.0
+	golang.org/x/net v0.26.0
+	golang.org/x/sync v0.7.0
+	golang.org/x/sys v0.21.0
+	golang.org/x/text v0.16.0
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1
 	gopkg.in/src-d/go-billy.v4 v4.3.2
 	gopkg.in/src-d/go-git.v4 v4.13.1
@@ -316,8 +316,8 @@ require (
 	go4.org v0.0.0-20161118210015-09d86de304dc // indirect
 	golang.org/x/exp v0.0.0-20230510235704-dd950f8aeaea // indirect
 	golang.org/x/exp/typeparams v0.0.0-20230307190834-24139beb5833 // indirect
-	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/tools v0.16.1 // indirect
+	golang.org/x/mod v0.18.0 // indirect
+	golang.org/x/tools v0.22.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
