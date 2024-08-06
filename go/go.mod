@@ -49,7 +49,7 @@ require (
 	github.com/keybase/keybase-test-vectors v1.0.12-0.20200309162119-ea1e58fecd5d
 	github.com/keybase/pipeliner v0.0.0-20231213214924-f648db4bba63
 	github.com/keybase/saltpack v0.0.0-20231213211625-726bb684c617
-	github.com/keybase/stellarnet v0.0.0-20200311180805-6c05850f9050
+	github.com/keybase/stellarnet v0.0.0-20211117211618-42803c16835a
 	github.com/kr/text v0.2.0
 	github.com/kyokomi/emoji v2.2.2+incompatible
 	github.com/mattn/go-isatty v0.0.17
