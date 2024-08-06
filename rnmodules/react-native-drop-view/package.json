@@ -39,7 +39,7 @@
     "react-native-builder-bob": "^0.20.4"
   },
   "resolutions": {
-    "@types/react": "18.2.12"
+    "@types/react": "18.3.3"
   },
   "peerDependencies": {
     "react": "*",
