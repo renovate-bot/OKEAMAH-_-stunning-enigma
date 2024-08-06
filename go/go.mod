@@ -64,7 +64,7 @@ require (
 	github.com/stathat/go v1.0.0
 	// NOTE: if stellar/go is updated, consider removing the `replace` directive
 	// for goautoneg at the bottom of this go.mod
-	github.com/stellar/go v0.0.0-20221209134558-b4ba6f8e67f2
+	github.com/stellar/go v0.0.0-20240805201839-9b925b19a8fd
 	github.com/stretchr/testify v1.8.4
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/urfave/cli v1.22.1
