@@ -1,4 +1,4 @@
-FROM golang:1.21.6-bullseye AS builder
+FROM golang:1.22.5-bullseye AS builder
 
 ARG SOURCE_COMMIT=unknown
 
