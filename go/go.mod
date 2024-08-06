@@ -16,7 +16,7 @@ require (
 	github.com/buger/jsonparser v1.1.1
 	github.com/coreos/go-systemd v0.0.0-20190620071333-e64a0ec8b42a
 	github.com/davecgh/go-spew v1.1.1
-	github.com/deckarep/golang-set v1.7.2-0.20180927150649-699df6a3acf6
+	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/docopt/docopt-go v0.0.0-20160216232012-784ddc588536
 	github.com/dustin/go-humanize v1.0.0
 	github.com/eapache/channels v1.1.0
@@ -88,6 +88,7 @@ require (
 require (
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
 	github.com/aws/aws-sdk-go v1.49.13
+	github.com/deckarep/golang-set v1.8.0
 	github.com/gocolly/colly/v2 v2.1.1-0.20231020184023-3c987f1982ed
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
 	github.com/keybase/dbus v0.0.0-20220506165403-5aa21ea2c23a
