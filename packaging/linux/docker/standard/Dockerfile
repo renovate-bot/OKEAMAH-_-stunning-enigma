@@ -21,7 +21,7 @@ RUN chmod +x /binaries/amd64/usr/bin/keybase \
     && chmod +x /binaries/amd64/usr/bin/kbfsfuse \
     && chmod +x /binaries/amd64/usr/bin/git-remote-keybase
 
-FROM debian:bullseye
+FROM debian:bookworm
 LABEL maintainer="Keybase <admin@keybase.io>"
 
 RUN apt-get update \
