@@ -7,7 +7,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "bel": "^5.0.0",
+    "bel": "^6.0.0",
     "morphdom": "^2.7.2"
   },
   "devDependencies": {
