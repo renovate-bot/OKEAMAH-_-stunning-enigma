@@ -56,7 +56,7 @@ require (
 	github.com/miekg/dns v1.1.57
 	github.com/nfnt/resize v0.0.0-20160724205520-891127d8d1b5
 	github.com/pkg/errors v0.9.1
-	github.com/pkg/xattr v0.2.2
+	github.com/pkg/xattr v0.4.10
 	github.com/qrtz/nativemessaging v0.0.0-20161221035708-f4769a80e040
 	github.com/rcrowley/go-metrics v0.0.0-20161128210544-1f30fe9094a5
 	github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3
