@@ -68,7 +68,7 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/urfave/cli v1.22.1
-	github.com/vividcortex/ewma v1.1.2-0.20170804035156-43880d236f69
+	github.com/vividcortex/ewma v1.2.0
 	go.uber.org/zap v1.24.0
 	golang.org/x/crypto v0.17.0
 	golang.org/x/image v0.14.0
