@@ -79,7 +79,7 @@
     "@react-native-picker/picker": "2.6.1",
     "@react-navigation/bottom-tabs": "6.5.11",
     "@react-navigation/core": "6.4.10",
-    "@react-navigation/native": "6.1.9",
+    "@react-navigation/native": "6.1.18",
     "@react-navigation/native-stack": "6.9.17",
     "base-64": "1.0.0",
     "classnames": "2.5.1",
