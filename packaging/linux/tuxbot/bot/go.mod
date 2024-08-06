@@ -8,7 +8,7 @@ require (
 	github.com/heroku/docker-registry-client v0.0.0-20190909225348-afc9e1acc3d5
 	github.com/keybase/go-keybase-chat-bot v0.0.0-20211119193246-0a6a7b508a0e
 	github.com/pkg/errors v0.9.1
-	github.com/subosito/gotenv v1.2.0
+	github.com/subosito/gotenv v1.6.0
 )
 
 require (
@@ -21,7 +21,9 @@ require (
 	github.com/opencontainers/image-spec v1.0.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/sirupsen/logrus v1.4.2 // indirect
-	github.com/stretchr/testify v1.5.1 // indirect
-	golang.org/x/sys v0.0.0-20190507160741-ecd444e8653b // indirect
+	github.com/stretchr/testify v1.7.5 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/text v0.12.0 // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
