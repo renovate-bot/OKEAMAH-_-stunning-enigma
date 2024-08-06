@@ -99,7 +99,7 @@
     "expo-mail-composer": "12.5.0",
     "expo-media-library": "15.6.0",
     "expo-sms": "11.5.0",
-    "expo-task-manager": "11.5.0",
+    "expo-task-manager": "11.8.2",
     "fastestsmallesttextencoderdecoder": "1.0.22",
     "framed-msgpack-rpc": "keybase/node-framed-msgpack-rpc#nojima/HOTPOT-use-buffer",
     "google-libphonenumber": "3.2.34",
