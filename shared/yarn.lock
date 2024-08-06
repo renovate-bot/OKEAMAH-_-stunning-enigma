@@ -5530,12 +5530,12 @@ expo-av@13.5.1:
   resolved "https://registry.yarnpkg.com/expo-av/-/expo-av-13.5.1.tgz#95ac2cb8548aaf3f13c78acfc31de63630502f76"
   integrity sha512-Ytu+Y9Lb6FnTVnsu95uG7b5J34RWB3ewuRhZG+zO2i8/WYyGGPrUGBXwjnb4cXBYwDUEad+vB/qnN/euGPLYtQ==
 
-expo-barcode-scanner@12.7.0:
-  version "12.7.0"
-  resolved "https://registry.yarnpkg.com/expo-barcode-scanner/-/expo-barcode-scanner-12.7.0.tgz#c96bdf12e53468eab78c45533abd9e0ebe6ac23c"
-  integrity sha512-HTy5mRHRtOM/3xrVXN9wUBIQGXLdvqGgHkrSxgvJzqLQBjafq+uEiUxTPRyvNofWt3gMZXcy8ZqqW7gaD3xXDg==
+expo-barcode-scanner@12.9.3:
+  version "12.9.3"
+  resolved "https://registry.yarnpkg.com/expo-barcode-scanner/-/expo-barcode-scanner-12.9.3.tgz#b6be7975c7a347d5906255b2117eb8ea35dde275"
+  integrity sha512-I3zaKSINRMHbTc7sHIq14ug3fHkCsW4rweJF12yk0kHaympI2wxVgIo2DhzeZaYG1Ylkuj5aiKen3NuwDk1FSA==
   dependencies:
-    expo-image-loader "~4.4.0"
+    expo-image-loader "~4.6.0"
 
 expo-clipboard@4.5.0:
   version "4.5.0"
@@ -5594,6 +5594,11 @@ expo-image-loader@~4.4.0:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/expo-image-loader/-/expo-image-loader-4.4.0.tgz#35909516311aa60fa4bf35aa6eb7624d7f7f788d"
   integrity sha512-dq88tiRB8aB1U+O/oJI7IY4VU9Nu2iDjEwR8QDfLtD4xWd5lNGoyic5Vh7911E1qNJFqNMSVIVzOD5l1SQ3A6g==
+
+expo-image-loader@~4.6.0:
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/expo-image-loader/-/expo-image-loader-4.6.0.tgz#ca7d4fdf53125bff2091d3a2c34a3155f10df147"
+  integrity sha512-RHQTDak7/KyhWUxikn2yNzXL7i2cs16cMp6gEAgkHOjVhoCJQoOJ0Ljrt4cKQ3IowxgCuOrAgSUzGkqs7omj8Q==
 
 expo-image-picker@14.5.0:
   version "14.5.0"
