@@ -77,7 +77,7 @@
     "@react-native-community/push-notification-ios": "1.11.0",
     "@react-native-masked-view/masked-view": "0.3.1",
     "@react-native-picker/picker": "2.6.1",
-    "@react-navigation/bottom-tabs": "6.5.11",
+    "@react-navigation/bottom-tabs": "6.6.1",
     "@react-navigation/core": "6.4.10",
     "@react-navigation/native": "6.1.9",
     "@react-navigation/native-stack": "6.9.17",
