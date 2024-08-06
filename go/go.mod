@@ -1,6 +1,8 @@
 module github.com/keybase/client/go
 
-go 1.19
+go 1.21
+
+toolchain go1.22.5
 
 require (
 	bazil.org/fuse v0.0.0-20200424023519-3c101025617f
@@ -345,7 +347,7 @@ replace (
 
 // temporary workaround for https://github.com/blevesearch/bleve/issues/1360
 // should be removed if bleve is updated to a commit past https://github.com/blevesearch/bleve/commit/a9895fdf9c72cfaa202128a963697d9a98765369
-replace github.com/etcd-io/bbolt => go.etcd.io/bbolt v1.3.4-0.20191122203157-7f8bb47fcaf8
+replace github.com/etcd-io/bbolt => go.etcd.io/bbolt v1.3.10
 
 // temporary workaround for https://github.com/stellar/go/issues/2039
 // should be removed if stellar/go is updated to a commit past https://github.com/stellar/go/commit/f686b01b140bb57abcb8643240c3b6a134dad3ff
