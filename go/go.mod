@@ -336,7 +336,7 @@ require (
 // keybase maintained forks
 replace (
 	bazil.org/fuse => github.com/keybase/fuse v0.0.0-20210104232444-d36009698767
-	github.com/stellar/go => github.com/keybase/stellar-org v0.0.0-20191010205648-0fc3bfe3dfa7
+	github.com/stellar/go => github.com/keybase/stellar-org a77dcd25b1e8
 	github.com/syndtr/goleveldb => github.com/keybase/goleveldb v1.0.1-0.20221007195407-9881c0c26e65
 	gopkg.in/src-d/go-billy.v4 => github.com/keybase/go-billy v3.1.1-0.20180828145748-b5a7b7bc2074+incompatible
 	gopkg.in/src-d/go-git.v4 => github.com/keybase/go-git v4.0.0-rc9.0.20190209005256-3a78daa8ce8e+incompatible
