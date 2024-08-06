@@ -80,7 +80,7 @@ require (
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1
 	gopkg.in/src-d/go-billy.v4 v4.3.2
 	gopkg.in/src-d/go-git.v4 v4.13.1
-	mvdan.cc/xurls/v2 v2.0.0-00010101000000-000000000000
+	mvdan.cc/xurls/v2 v2.5.0
 	rsc.io/qr v0.2.0
 	stathat.com/c/ramcache v1.0.0
 )
