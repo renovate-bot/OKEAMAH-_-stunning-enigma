@@ -1,6 +1,8 @@
 module github.com/keybase/client/go
 
-go 1.19
+go 1.21
+
+toolchain go1.22.5
 
 require (
 	bazil.org/fuse v0.0.0-20200424023519-3c101025617f
@@ -11,7 +13,7 @@ require (
 	github.com/blang/semver v3.5.1+incompatible
 	// NOTE: if bleve is updated, consider removing the `replace` directive
 	// for bbolt at the bottom of this go.mod
-	github.com/blevesearch/bleve v0.8.2-0.20191030071327-189ee421f71e
+	github.com/blevesearch/bleve/v2 v2.4.2
 	github.com/btcsuite/btcutil v0.0.0-20180706230648-ab6388e0c60a
 	github.com/buger/jsonparser v1.1.1
 	github.com/coreos/go-systemd v0.0.0-20190620071333-e64a0ec8b42a
@@ -58,7 +60,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/pkg/xattr v0.2.2
 	github.com/qrtz/nativemessaging v0.0.0-20161221035708-f4769a80e040
-	github.com/rcrowley/go-metrics v0.0.0-20161128210544-1f30fe9094a5
+	github.com/rcrowley/go-metrics v0.0.0-20190826022208-cac0b30c2563
 	github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3
 	github.com/shirou/gopsutil v2.18.13-0.20181231150826-db425313bfa8+incompatible
 	github.com/stathat/go v1.0.0
@@ -88,6 +90,7 @@ require (
 require (
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
 	github.com/aws/aws-sdk-go v1.49.13
+	github.com/blevesearch/bleve v1.0.14
 	github.com/gocolly/colly/v2 v2.1.1-0.20231020184023-3c987f1982ed
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
 	github.com/keybase/dbus v0.0.0-20220506165403-5aa21ea2c23a
@@ -107,7 +110,7 @@ require (
 	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.1.0 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/OpenPeeDeeP/depguard/v2 v2.1.0 // indirect
-	github.com/RoaringBitmap/roaring v0.4.22-0.20191112221735-4d53b29a8f7d // indirect
+	github.com/RoaringBitmap/roaring v1.9.3 // indirect
 	github.com/StackExchange/wmi v1.2.1 // indirect
 	github.com/alcortesm/tgz v0.0.0-20161220082320-9c5fe88206d7 // indirect
 	github.com/alecthomas/go-check-sumtype v0.1.3 // indirect
@@ -124,11 +127,18 @@ require (
 	github.com/ashanbrown/forbidigo v1.6.0 // indirect
 	github.com/ashanbrown/makezero v1.1.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/bits-and-blooms/bitset v1.2.2-0.20220111210104-dfa3e347c392 // indirect
+	github.com/bits-and-blooms/bitset v1.12.0 // indirect
 	github.com/bkielbasa/cyclop v1.2.1 // indirect
-	github.com/blevesearch/blevex v0.0.0-20190916190636-152f0fe5c040 // indirect
+	github.com/blevesearch/blevex v1.0.0 // indirect
 	github.com/blevesearch/go-porterstemmer v1.0.3 // indirect
-	github.com/blevesearch/segment v0.8.0 // indirect
+	github.com/blevesearch/mmap-go v1.0.4 // indirect
+	github.com/blevesearch/segment v0.9.1 // indirect
+	github.com/blevesearch/snowballstem v0.9.0 // indirect
+	github.com/blevesearch/zap/v11 v11.0.14 // indirect
+	github.com/blevesearch/zap/v12 v12.0.14 // indirect
+	github.com/blevesearch/zap/v13 v13.0.6 // indirect
+	github.com/blevesearch/zap/v14 v14.0.5 // indirect
+	github.com/blevesearch/zap/v15 v15.0.3 // indirect
 	github.com/blizzy78/varnamelen v0.8.0 // indirect
 	github.com/bombsimon/wsl/v3 v3.4.0 // indirect
 	github.com/breml/bidichk v0.2.7 // indirect
@@ -141,7 +151,7 @@ require (
 	github.com/charithe/durationcheck v0.0.10 // indirect
 	github.com/chavacava/garif v0.1.0 // indirect
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
-	github.com/couchbase/vellum v1.0.0 // indirect
+	github.com/couchbase/vellum v1.0.2 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/curioswitch/go-reassign v0.2.0 // indirect
 	github.com/cznic/b v0.0.0-20181122101859-a26611c4d92d // indirect
@@ -233,7 +243,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/moricho/tparallel v0.3.1 // indirect
-	github.com/mschoch/smat v0.0.0-20160514031455-90eadee771ae // indirect
+	github.com/mschoch/smat v0.2.0 // indirect
 	github.com/nakabonne/nestif v0.3.1 // indirect
 	github.com/nf/cr2 v0.0.0-20140528043846-05d46fef4f2f // indirect
 	github.com/nishanths/exhaustive v0.11.0 // indirect
@@ -284,7 +294,7 @@ require (
 	github.com/ssgreg/nlreturn/v2 v2.2.1 // indirect
 	github.com/stbenjam/no-sprintf-host-port v0.1.1 // indirect
 	github.com/stellar/go-xdr v0.0.0-20211103144802-8017fc4bdfee // indirect
-	github.com/steveyen/gtreap v0.0.0-20150807155958-0abe01ef9be2 // indirect
+	github.com/steveyen/gtreap v0.1.0 // indirect
 	github.com/stretchr/objx v0.5.1 // indirect
 	github.com/strib/gomounts v0.0.0-20180215003523-d9ea4eaa52ca // indirect
 	github.com/subosito/gotenv v1.4.1 // indirect
@@ -309,7 +319,7 @@ require (
 	github.com/ykadowak/zerologlint v0.1.3 // indirect
 	gitlab.com/bosi/decorder v0.4.1 // indirect
 	go-simpler.org/sloglint v0.1.2 // indirect
-	go.etcd.io/bbolt v1.3.6 // indirect
+	go.etcd.io/bbolt v1.3.7 // indirect
 	go.tmz.dev/musttag v0.7.2 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
