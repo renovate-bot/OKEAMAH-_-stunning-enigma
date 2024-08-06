@@ -26,7 +26,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
 	github.com/golang/mock v1.6.0
 	github.com/golangci/golangci-lint v1.55.1
-	github.com/hashicorp/golang-lru v0.5.4
+	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/josephspurrier/goversioninfo v0.0.0-20160622020813-53f6213da3d7
 	github.com/keybase/backoff v1.0.1-0.20160517061000-726b63b835ec
 	github.com/keybase/cli v1.2.1-0.20191217150554-9323fd7ddfab
@@ -89,6 +89,7 @@ require (
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
 	github.com/aws/aws-sdk-go v1.49.13
 	github.com/gocolly/colly/v2 v2.1.1-0.20231020184023-3c987f1982ed
+	github.com/hashicorp/golang-lru v0.5.4
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
 	github.com/keybase/dbus v0.0.0-20220506165403-5aa21ea2c23a
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
