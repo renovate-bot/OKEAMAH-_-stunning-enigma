@@ -351,6 +351,6 @@ replace github.com/etcd-io/bbolt => go.etcd.io/bbolt v1.3.4-0.20191122203157-7f8
 // should be removed if stellar/go is updated to a commit past https://github.com/stellar/go/commit/f686b01b140bb57abcb8643240c3b6a134dad3ff
 replace bitbucket.org/ww/goautoneg => github.com/adjust/goautoneg v0.0.0-20150426214442-d788f35a0315
 
-replace os/exec => golang.org/x/sys/execabs v0.0.0-20211117180635-dee7805ff2e1
+replace os/exec => golang.org/x/sys/execabs v0.23.0
 
 replace camlistore.org v0.0.0-20161205184337-c55c8602d3ce => perkeep.org v0.0.0-20161205184337-c55c8602d3ce
