@@ -6,7 +6,7 @@ require (
 	bazil.org/fuse v0.0.0-20200424023519-3c101025617f
 	camlistore.org v0.0.0-20161205184337-c55c8602d3ce
 	github.com/PuerkitoBio/goquery v1.5.1
-	github.com/akavel/rsrc v0.2.1-0.20151103204339-ba14da1f8271
+	github.com/akavel/rsrc v0.10.2
 	github.com/araddon/dateparse v0.0.0-20180729174819-cfd92a431d0e
 	github.com/blang/semver v3.5.1+incompatible
 	// NOTE: if bleve is updated, consider removing the `replace` directive
