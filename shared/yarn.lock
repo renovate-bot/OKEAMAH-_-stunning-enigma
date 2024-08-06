@@ -5525,10 +5525,10 @@ expo-asset@~8.10.1:
     path-browserify "^1.0.0"
     url-parse "^1.5.9"
 
-expo-av@13.5.1:
-  version "13.5.1"
-  resolved "https://registry.yarnpkg.com/expo-av/-/expo-av-13.5.1.tgz#95ac2cb8548aaf3f13c78acfc31de63630502f76"
-  integrity sha512-Ytu+Y9Lb6FnTVnsu95uG7b5J34RWB3ewuRhZG+zO2i8/WYyGGPrUGBXwjnb4cXBYwDUEad+vB/qnN/euGPLYtQ==
+expo-av@13.10.6:
+  version "13.10.6"
+  resolved "https://registry.yarnpkg.com/expo-av/-/expo-av-13.10.6.tgz#ca1b5d0c46a016069f653c1740a25516ffc730a2"
+  integrity sha512-h3c1fg5yhWnP0RIGO+fhgPx6cmh4B4lnKdXR2i69aC3vs5D5Cu+JlzBon1gLIu6eUo2IVfC0RjSLpfQbcJ4doQ==
 
 expo-barcode-scanner@12.7.0:
   version "12.7.0"
