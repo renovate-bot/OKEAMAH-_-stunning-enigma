@@ -740,6 +740,8 @@ github.com/prometheus/procfs v0.7.3 h1:4jVXhlkAyzOScmCkXBTOLRLTz8EeU+eyjrwB/EPq0
 github.com/prometheus/procfs v0.7.3/go.mod h1:cz+aTbrPOrUb4q7XlbU9ygM+/jj0fzG6c1xBZuNvfVA=
 github.com/qrtz/nativemessaging v0.0.0-20161221035708-f4769a80e040 h1:iKwSrA9BD8ywmJGJy2JbiscEaRrtVY+m/U+ikacZazI=
 github.com/qrtz/nativemessaging v0.0.0-20161221035708-f4769a80e040/go.mod h1:oJXjZgmJiNwg5XtEvky9JCZqd7CZI7iz+mwmTxjIpak=
+github.com/qrtz/nativemessaging v0.0.0-20240302125733-ccb6071661b0 h1:jcJ2hRK/vGeVpe9GqH3qqwt14dp+2N6hd6WbRwqVigk=
+github.com/qrtz/nativemessaging v0.0.0-20240302125733-ccb6071661b0/go.mod h1:oJXjZgmJiNwg5XtEvky9JCZqd7CZI7iz+mwmTxjIpak=
 github.com/quasilyte/go-ruleguard v0.4.0 h1:DyM6r+TKL+xbKB4Nm7Afd1IQh9kEUKQs2pboWGKtvQo=
 github.com/quasilyte/go-ruleguard v0.4.0/go.mod h1:Eu76Z/R8IXtViWUIHkE3p8gdH3/PKk1eh3YGfaEof10=
 github.com/quasilyte/gogrep v0.5.0 h1:eTKODPXbI8ffJMN+W2aE0+oL0z/nh8/5eNdiO34SOAo=
