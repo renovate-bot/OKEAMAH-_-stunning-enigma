@@ -52,7 +52,7 @@ require (
 	github.com/keybase/stellarnet v0.0.0-20200311180805-6c05850f9050
 	github.com/kr/text v0.2.0
 	github.com/kyokomi/emoji v2.2.2+incompatible
-	github.com/mattn/go-isatty v0.0.17
+	github.com/mattn/go-isatty v0.0.20
 	github.com/miekg/dns v1.1.57
 	github.com/nfnt/resize v0.0.0-20160724205520-891127d8d1b5
 	github.com/pkg/errors v0.9.1
