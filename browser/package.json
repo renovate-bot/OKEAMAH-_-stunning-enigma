@@ -11,6 +11,6 @@
     "morphdom": "^2.7.2"
   },
   "devDependencies": {
-    "webpack": "^2.7.0"
+    "webpack": "^5.0.0"
   }
 }
