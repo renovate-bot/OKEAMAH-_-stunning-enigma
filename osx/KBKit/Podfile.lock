@@ -1,22 +1,17 @@
 PODS:
-  - AFNetworking (2.6.3):
-    - AFNetworking/NSURLConnection (= 2.6.3)
-    - AFNetworking/NSURLSession (= 2.6.3)
-    - AFNetworking/Reachability (= 2.6.3)
-    - AFNetworking/Security (= 2.6.3)
-    - AFNetworking/Serialization (= 2.6.3)
-    - AFNetworking/UIKit (= 2.6.3)
-  - AFNetworking/NSURLConnection (2.6.3):
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
     - AFNetworking/Reachability
     - AFNetworking/Security
     - AFNetworking/Serialization
-  - AFNetworking/NSURLSession (2.6.3):
-    - AFNetworking/Reachability
-    - AFNetworking/Security
-    - AFNetworking/Serialization
-  - AFNetworking/Reachability (2.6.3)
-  - AFNetworking/Security (2.6.3)
-  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
   - CocoaLumberjack (3.1.0):
     - CocoaLumberjack/Default (= 3.1.0)
     - CocoaLumberjack/Extensions (= 3.1.0)
@@ -44,7 +39,7 @@ PODS:
   - YOLayout (0.2.13)
 
 DEPENDENCIES:
-  - AFNetworking (~> 2.0)
+  - AFNetworking (~> 4.0)
   - CocoaLumberjack
   - GHKeychain
   - GHKit
@@ -81,7 +76,7 @@ CHECKOUT OPTIONS:
     :git: https://github.com/chrisdevereux/Slash
 
 SPEC CHECKSUMS:
-  AFNetworking: a926f9357e3bc39d2c49c547e8e8dc90b36259b6
+  AFNetworking: 3bd23d814e976cd148d7d44c3ab78017b744cd58
   CocoaLumberjack: 8311463ddf9ee86a06ef92a071dd656c89244500
   GHKeychain: 008cdb8bbab5b0dc1da3d0f06a67ce5203231e44
   GHKit: 29e5361c9d8a33343ae5ed4698057d1533ee590b
@@ -94,6 +89,6 @@ SPEC CHECKSUMS:
   Tikppa: 77ac88aa89814a5ae9d18a773b4436ebef2235b7
   YOLayout: 6728d890bab9b9e4962efd554cba16d677b30b0f
 
-PODFILE CHECKSUM: 4f18b3e179e2048f397fee4d98e1ff92fcd2f489
+PODFILE CHECKSUM: d89aa626a127f83dd85639146a8ae7bb361db322
 
 COCOAPODS: 1.13.0

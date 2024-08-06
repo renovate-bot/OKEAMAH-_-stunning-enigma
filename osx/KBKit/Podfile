@@ -5,7 +5,7 @@ target "KBKit" do
   pod "GHKit"
   pod "ObjectiveSugar"
   pod "CocoaLumberjack"
-  pod "AFNetworking", "~> 2.0"
+  pod "AFNetworking", "~> 4.0"
   pod "GHKeychain"
   pod "Mantle"
   pod "MPMessagePack"
