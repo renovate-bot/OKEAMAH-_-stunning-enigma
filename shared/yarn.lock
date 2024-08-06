@@ -1975,17 +1975,16 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@khanacademy/perseus-core@1.4.1", "@khanacademy/perseus-core@keybase/nullModule":
+"@khanacademy/perseus-core@1.5.0", "@khanacademy/perseus-core@keybase/nullModule":
   version "0.0.0"
   resolved "https://codeload.github.com/keybase/nullModule/tar.gz/e0d7d7874eb4d1fd82056f92f146589186fe94f0"
 
-"@khanacademy/simple-markdown@0.11.2":
-  version "0.11.2"
-  resolved "https://registry.yarnpkg.com/@khanacademy/simple-markdown/-/simple-markdown-0.11.2.tgz#28dea129c5f24fbfef03165179089313369f2c29"
-  integrity sha512-eU4QkjFljjP8LLBGuYaU8O6vRCLBefTrvU7GKCb6PZxMN2NLSI0vq+6qKz5a8t1m0v1vXypdYm+kHNF0TApSqQ==
+"@khanacademy/simple-markdown@0.13.0":
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/@khanacademy/simple-markdown/-/simple-markdown-0.13.0.tgz#9f65c733e7f021f57b544866452f398fbc67eaf0"
+  integrity sha512-ZELHs/zRnWYko27MpnGtoMvltx/Dg3L2MpeMx5TKP1W6AngEszrol/GGxwNZdM+tqArGlH93J2P5xoQ8NZw2ZA==
   dependencies:
-    "@khanacademy/perseus-core" "1.4.1"
-    "@types/react" ">=16.0.0"
+    "@khanacademy/perseus-core" "1.5.0"
 
 "@leichtgewicht/ip-codec@^2.0.1":
   version "2.0.4"
@@ -2848,7 +2847,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@18.2.67", "@types/react@>=16.0.0":
+"@types/react@*", "@types/react@18.2.67":
   version "18.2.67"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.67.tgz#96b7af0b5e79c756f4bdd981de2ca28472c858e5"
   integrity sha512-vkIE2vTIMHQ/xL0rgmuoECBCkZFZeHr49HeWSc24AptMbNRo7pwSBvj73rlJJs9fGKj0koS+V7kQB1jHS0uCgw==

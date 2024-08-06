@@ -131,7 +131,7 @@
     "react-virtualized-auto-sizer": "1.0.24",
     "react-window": "1.8.10",
     "shallowequal": "1.1.0",
-    "@khanacademy/simple-markdown": "0.11.2",
+    "@khanacademy/simple-markdown": "0.13.0",
     "uint8array-extras": "1.1.0",
     "url-parse": "1.5.10",
     "use-debounce": "10.0.0",
