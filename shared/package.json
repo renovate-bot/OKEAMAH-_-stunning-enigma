@@ -134,7 +134,7 @@
     "@khanacademy/simple-markdown": "0.11.2",
     "uint8array-extras": "1.1.0",
     "url-parse": "1.5.10",
-    "use-debounce": "10.0.0",
+    "use-debounce": "10.0.2",
     "util": "0.12.5",
     "zustand": "4.5.0"
   },
