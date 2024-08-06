@@ -141,7 +141,7 @@
   "devDependencies": {
     "@babel/core": "7.23.3",
     "@babel/node": "7.22.19",
-    "@babel/preset-env": "7.23.3",
+    "@babel/preset-env": "7.25.3",
     "@babel/preset-react": "7.23.3",
     "@babel/preset-typescript": "7.23.3",
     "@babel/plugin-proposal-numeric-separator": "7.18.6",
